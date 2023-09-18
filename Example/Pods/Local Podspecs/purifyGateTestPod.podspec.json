@@ -1,0 +1,22 @@
+{
+  "name": "purifyGateTestPod",
+  "version": "0.1.0",
+  "summary": "A short description of purifyGateTestPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ozturkemre58/purifyGateTestPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ozturkemre58": "emreozturk.5874@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ozturkemre58/purifyGateTestPod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "purifyGateTestPod/Classes/**/*"
+}

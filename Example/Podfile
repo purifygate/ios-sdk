@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'purifyGateTestPod_Example' do
+  pod 'purifyGateTestPod', :path => '../'
+
+  target 'purifyGateTestPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
