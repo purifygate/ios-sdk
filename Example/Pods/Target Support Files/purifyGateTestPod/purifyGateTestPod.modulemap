@@ -1,6 +1,0 @@
-framework module purifyGateTestPod {
-  umbrella header "purifyGateTestPod-umbrella.h"
-
-  export *
-  module * { export * }
-}
